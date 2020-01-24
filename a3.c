@@ -18,3 +18,4 @@ void main()
 	printf("last name=%s\n",lastname);
 	printf("full name=%s\n",fullname);
 }
+HI

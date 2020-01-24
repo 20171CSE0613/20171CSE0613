@@ -19,3 +19,4 @@ void main()
 	printf("full name=%s\n",fullname);
 }
 HI
+hiii hihiii
